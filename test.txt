@@ -1,7 +1,14 @@
-#include  stdio.h
+#include  <stdio.h>
 int main()
 {
 	printf("Hi");
 }
 
+
+
+
+
+public void method1 {
+	System.out.println("Hi Hi");
+    }
 
