@@ -10,3 +10,7 @@ int main(void){
  return 0;
  }
  ```
+ 
+ //링크작성
+ 
+ [블루고 주소] (https://blog.naver.com/rnr9928)
