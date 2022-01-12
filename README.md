@@ -1,1 +1,12 @@
-# Git-chobo
+## 깃 초보
+
+마크다운 코드 연습
+
+```c
+#include <stdio.h>
+
+int main(void){
+ printf("hello world");
+ return 0;
+ }
+ ```
